@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="String">CoursAndroid</string>
+    <string name="dl">Téléchargement en cours</string>
+    <string name="finish">Téléchargement terminé</string>
+</resources>

@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.menuiserie.premierprojet.MainActivity">
+    <item
+        android:id="@+id/changeActivity"
+        android:orderInCategory="100"
+        android:title="Voir le panier"
+
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/quitApp"
+        android:orderInCategory="101"
+        android:title="Fermer l'application"
+        app:showAsAction="never" />
+    <!--<item
+        android:id="@+id/cc"
+        android:orderInCategory="102"
+        android:title="troisème"
+        -->
+        app:showAsAction="never" />
+
+</menu>
